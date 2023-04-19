@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pandas = "*"
+scipy = "*"
+autopep8 = "*"
 
 [dev-packages]
 

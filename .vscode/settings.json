@@ -1,3 +1,4 @@
 {
-    "notebook.output.textLineLimit": 10000
+    "notebook.output.textLineLimit": 10000,
+    "python.pythonPath": "/home/huukhang1512/.local/share/virtualenvs/ass1-3QOYSfM0/bin/python"
 }
