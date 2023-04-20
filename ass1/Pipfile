@@ -7,6 +7,8 @@ name = "pypi"
 pandas = "*"
 scipy = "*"
 autopep8 = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
