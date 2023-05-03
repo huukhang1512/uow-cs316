@@ -9,6 +9,7 @@ scipy = "*"
 autopep8 = "*"
 matplotlib = "*"
 seaborn = "*"
+nbconvert = "*"
 
 [dev-packages]
 
