@@ -8,6 +8,8 @@ tensorflow = "*"
 tensorrt = "*"
 pandas = "*"
 pyspark = "*"
+matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
